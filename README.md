@@ -54,7 +54,7 @@ A real-time collaborative drawing application built with React and Socket.io tha
 
 \`\`\`bash
 git clone https://github.com/burimhodai/online-whiteboard-ui.git
-cd cd online-whiteboard-ui
+cd online-whiteboard-ui
 \`\`\`
 
 ### 2. Install Dependencies
